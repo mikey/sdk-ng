@@ -13,6 +13,7 @@ Currently we build the following toolchains:
 - arm
 - riscv64
 - xtensa
+- powerpc64le
 
 To build for any of the above, run:
 
